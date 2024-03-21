@@ -1,0 +1,1 @@
+INSERT INTO master.dbo.auth_user (id, password, last_login, is_superuser, username, first_name, last_name, email, is_staff, is_active, date_joined) VALUES (2, N'pbkdf2_sha256$600000$oyWU2Iznwf6ktyyGiXWOjx$VvwyS8cupTKvnGw7HpZoecmyFjdpTliNssNh2r33ETE=', null, 1, N'sleepyMonkey', N'', N'', N'example@mail.ru', 1, 1, N'2024-06-21 04:04:43.8090000 +00:00');
